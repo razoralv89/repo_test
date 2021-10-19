@@ -1,0 +1,11 @@
+id: cce41bb10e2b697dfefcd2c1db8c4067df9cab34
+replaces: 2512d12baad1a178002caba28b94d5fb3a55ba04
+closed: true
+created: Rodolfo	rodolfoalv89@gmail.com	1634668580220	-300
+heads: 10e4a9f37bdf5ac430c66e3534fcc9a6e217cfd9
+source-head: bf8c35d6fa87d4f4053060b6fb9fdd031c36de18
+target: refs/heads/rodolfo_feature_3
+target-head: 3c682b31bbd5fd0d42a12f67a62afcc27a52e541
+updated: Rodolfo	rodolfoalv89@gmail.com	1634668590386	-300
+content
+PR for r f 4

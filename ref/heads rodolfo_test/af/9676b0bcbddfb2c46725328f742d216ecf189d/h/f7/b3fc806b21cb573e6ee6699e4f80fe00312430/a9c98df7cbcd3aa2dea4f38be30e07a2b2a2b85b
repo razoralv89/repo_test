@@ -1,8 +1,11 @@
 id: f7b3fc806b21cb573e6ee6699e4f80fe00312430
+replaces: 490f59b098c8260788b16598ae51063bad47447d
+closed: true
 created: Rodolfo	rodolfoalv89@gmail.com	1634666215764	-300
 heads: 6cbc5bfa8c1617659d16d0dad2c8ed23014a15d1
 source-head: af9676b0bcbddfb2c46725328f742d216ecf189d
 target: refs/heads/main
 target-head: 479defead5905acec8ba5d4a545ad3226653446e
+updated: Rodolfo	rodolfoalv89@gmail.com	1634667419711	-300
 content
 PR for rodolfo feature

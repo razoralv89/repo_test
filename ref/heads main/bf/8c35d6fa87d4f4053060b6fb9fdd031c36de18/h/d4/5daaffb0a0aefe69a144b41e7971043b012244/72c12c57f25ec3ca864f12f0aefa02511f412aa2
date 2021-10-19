@@ -1,10 +1,11 @@
 id: d45daaffb0a0aefe69a144b41e7971043b012244
-replaces: a63bdd128822944c28352dd805e2869a6034ddca
+replaces: a63bdd128822944c28352dd805e2869a6034ddca,bbc8811266f34c7ce0c395561ce231451a0f82f2
+closed: true
 created: Rodolfo	rodolfoalv89@gmail.com	1634668726045	-300
 heads: 01cdc99877a557e7a59b16b845f54d0851daecac,d743ee41061dc2f880f0d67d86399402d6868e6b
 source-head: bf8c35d6fa87d4f4053060b6fb9fdd031c36de18
 target: refs/heads/rodolfo_feature_5
 target-head: d14e67c657c7233e13be213aaa740204e4f39295
-updated: Rodolfo	rodolfoalv89@gmail.com	1634668730071	-300
+updated: Rodolfo	rodolfoalv89@gmail.com	1634668775258	-300
 content
 PR for r f 5
